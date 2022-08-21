@@ -16,17 +16,17 @@ Once the Splash Screen loads up with Fuse Logo , we enter the home page of the a
 ### 1. Homescreen <br>
 <p float="left">
    &emsp; &emsp; &emsp; &emsp;
-  <img src="https://user-images.githubusercontent.com/96954007/185807224-486c37e6-0730-4a27-88f0-99b28f786c6a.png" width="35%" height=700 />
+  <img src="https://user-images.githubusercontent.com/96954007/185807224-486c37e6-0730-4a27-88f0-99b28f786c6a.png" width="35%" height=650 />
    &emsp; &emsp; &emsp; &emsp; 
-  <img src="https://user-images.githubusercontent.com/96954007/185807404-46f12d6b-0fa2-4d1c-8490-937f62e41d86.png" width="35%" height=700 />
+  <img src="https://user-images.githubusercontent.com/96954007/185807404-46f12d6b-0fa2-4d1c-8490-937f62e41d86.png" width="35%" height=650 />
 </p>
 
 ### 2. Game Catalogue and ScoreBoard <br>
 <p float="left">
   &emsp; &emsp; &emsp; &emsp; 
-  <img src="https://user-images.githubusercontent.com/96954007/185807512-01fe6dcd-e8c6-407f-8c1a-f8d7c88c37af.png" width="35%" height=700 />
+  <img src="https://user-images.githubusercontent.com/96954007/185807512-01fe6dcd-e8c6-407f-8c1a-f8d7c88c37af.png" width="35%" height=650 />
   &emsp; &emsp; &emsp; &emsp;
-  <img src="https://user-images.githubusercontent.com/96954007/185807785-852d3484-e0ff-411b-a525-9847e46a13ca.png" width="35%" height=700 />
+  <img src="https://user-images.githubusercontent.com/96954007/185807785-852d3484-e0ff-411b-a525-9847e46a13ca.png" width="35%" height=650 />
 </p>
 
 ## Implementation
