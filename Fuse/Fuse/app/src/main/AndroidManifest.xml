@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sampleproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/fuse"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/fuse"
+        android:supportsRtl="true"
+        android:theme="@style/AwesomeTheme">
+        <activity android:name=".ViewScores"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity android:name=".UserInfo" />
+        <activity android:name=".LevelGrid"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".ReactionGraph"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".ReactionTap"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".NameThatSong"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".HangMan"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".SimonSays"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LevelList"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TicTacToe"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Level2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TapTorial"
+            android:theme="@style/AppTheme.NoActionBar" /> <!-- &gt;>>>>>> cc93c6a08847bf228b513cf76000f5cfc55fef52 -->
+        <activity android:name=".SplashActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+    </application>
+
+</manifest>

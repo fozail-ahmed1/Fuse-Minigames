@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Fuse</string>
+    <string name="startButton">Start Game</string>
+    <string name="tappy">Tap 10 Times!</string>
+    <string name="gameTitle">Why is Victor so good looking?</string>
+    <string name="level2Title">Isn\'t your finger tired?</string>
+    <string name="txtViewP1Txt">Player 1 (X): 0</string>
+    <string name="textViewP2Txt">Player 2: 0</string>
+    <string name="BtnResetTxt">Reset</string>
+    <string name="textViewCpuScoreString">CPU (O): 0</string>
+    <string name="txtViewPlayerScoreTxt">You (X): 0</string>
+    <string name="TapMan">TapMan!Hangman but cooler</string>
+    <string name="actual_game_title">PLease enter your username!</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="o">O</string>
+    <string name="p">P</string>
+    <string name="q">Q</string>
+    <string name="r">R</string>
+    <string name="s">S</string>
+    <string name="t">T</string>
+    <string name="u">U</string>
+    <string name="v">V</string>
+    <string name="w">W</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="simonTitle">Simon Tap</string>
+    <string name="test">test</string>
+    <string name="init_word">_ _ _ _ _ _ _</string>
+    <string name="new_game">New Game</string>
+    <string name="you_win">You win</string>
+    <string name="you_lose">You lose</string>
+    <string name="game_is_ended">Game is ended. Start a new game!</string>
+    <string name="word_to_find">Word to find was: #word#</string>
+    <string name="try_an_other">Try another letter</string>
+    <string name="letter_already_entered">Letter already entered</string>
+    <string name="ntsTitle">Name That Song!</string>
+    <string name="ntsGuessBtn">GUESS THE SONG!</string>
+    <string name="ntsTxtHint">Guess</string>
+    <string name="TitleForTapRec">Reaction Tap</string>
+
+    <string name="DescriptionTap">Tap the button when the color changes to green</string>
+    <string name="tapButton">WAIT!</string>
+    <string name="readyButton">READY!</string>
+    <string name="TicTapToeTitle">O Tic Tap Toe X</string>
+    <string name="TicTapToeTitle2">Tic Tap Toe</string>
+    <string name="DudeIDontEvenKnowWhatShouldICallTheseThingsAnymore">Win 3 Rounds!</string>
+    <string name="playPause">Play/Pause</string>
+    <string name="headphonesImg">headphones</string>
+    <string name="vinylImg">vinyl</string>
+    <string name="ntsAlbumArt">Album Art Background</string>
+    <string name="Start">Tap to start</string>
+
+    <string name="wait">WAIT FOR GREEN ...</string>
+    <string name="click">Click! </string>
+    <string name="clickagain">Click Again to continue!</string>
+    <string name="userName">Enter username with no space</string>
+    <string name="updateInfoButton">Update Info</string>
+    <string name="level1TitleTxt">Welcome to Tappy!</string>
+    <string name="scoreTitle">SCORES!</string>
+    <string-array name="hangmanList">
+        <item>Choose a category</item>
+        <item>ANIMAL</item>
+        <item>ACTIVITIES</item>
+        <item>2020</item>
+    </string-array>
+    <string-array name="sorting">
+        <item>Sort by Last Added</item>
+        <item>Sort by Name</item>
+        <item>Sort by Game</item>
+    </string-array>
+
+
+</resources>
